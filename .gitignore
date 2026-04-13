@@ -1,4 +1,5 @@
 build/
+output/
 app/res/shaders/bin
 thermite/res/shaders/bin
 *.dat
